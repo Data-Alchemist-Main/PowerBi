@@ -1,0 +1,51 @@
+Property_ID,Estate,Property_Type,Bedrooms,Bathrooms,Parking,Sq_Meters,Year_Built,Price_KES,Listing_Date,Furnished,Status
+P001,Lang'ata,Duplex,5,4,0,232,2008,8805201,7/6/2025,No,Available
+P002,Lang'ata,Duplex,3,2,1,187,2006,43066974,7/4/2025,No,Available
+P003,Parklands,Maisonette,1,1,0,197,2008,40473833,7/2/2025,Yes,Sold
+P004,Kilimani,Bungalow,1,1,3,92,2021,25342474,7/8/2025,Yes,Available
+P005,Roysambu,Apartment,2,1,2,191,2017,12371438,7/2/2025,Yes,Available
+P006,Embakasi,Duplex,4,3,1,62,2016,13775488,7/1/2025,Yes,Pending
+P007,Parklands,Bungalow,5,3,1,58,2018,23545104,7/8/2025,No,Sold
+P008,Kilimani,Maisonette,4,2,2,117,2010,20053987,7/6/2025,Yes,Pending
+P009,Roysambu,Villa,1,1,0,165,2019,24250427,7/4/2025,Yes,Available
+P010,Westlands,Apartment,3,1,3,242,2019,12571037,7/7/2025,Yes,Pending
+P011,Embakasi,Apartment,3,2,2,59,2014,38179532,7/2/2025,No,Pending
+P012,Embakasi,Bungalow,3,1,2,199,2017,18688567,7/1/2025,Yes,Sold
+P013,Lang'ata,Apartment,4,4,1,89,2014,14250609,7/7/2025,No,Pending
+P014,Kileleshwa,Apartment,2,1,0,142,2022,6325107,7/8/2025,Yes,Available
+P015,Kilimani,Maisonette,4,1,0,70,2021,13535028,7/4/2025,No,Pending
+P016,Kahawa West,Apartment,4,1,2,178,2012,23909893,7/3/2025,Yes,Sold
+P017,Westlands,Maisonette,1,1,1,72,2006,40406326,7/8/2025,Yes,Sold
+P018,South B,Bungalow,2,2,1,149,2019,19694139,7/7/2025,No,Available
+P019,Kilimani,Villa,1,1,2,71,2021,28195222,7/6/2025,No,Sold
+P020,Parklands,Apartment,3,2,2,145,2022,12594405,7/6/2025,Yes,Available
+P021,Lang'ata,Bungalow,1,1,0,106,2021,8186335,7/1/2025,Yes,Pending
+P022,Westlands,Apartment,1,1,1,147,2022,33409099,7/5/2025,No,Pending
+P023,Kahawa West,Bungalow,4,2,2,168,2007,43098031,7/2/2025,Yes,Pending
+P024,Kileleshwa,Duplex,5,3,1,204,2022,22672405,7/6/2025,Yes,Available
+P025,Westlands,Apartment,5,4,0,197,2005,12458767,7/8/2025,Yes,Available
+P026,Roysambu,Duplex,4,3,2,192,2008,19355092,7/4/2025,Yes,Pending
+P027,Embakasi,Maisonette,3,1,1,228,2015,13797606,7/4/2025,No,Pending
+P028,Kilimani,Duplex,5,4,1,147,2011,8632066,7/8/2025,Yes,Available
+P029,Runda,Bungalow,1,1,1,100,2007,32626914,7/5/2025,No,Pending
+P030,Kilimani,Apartment,1,1,3,88,2014,26397332,7/3/2025,Yes,Available
+P031,Kahawa West,Villa,4,3,3,81,2014,39688945,7/6/2025,No,Available
+P032,Parklands,Maisonette,1,1,1,175,2016,11382710,7/3/2025,No,Available
+P033,South B,Apartment,3,1,2,177,2020,27684796,7/2/2025,Yes,Sold
+P034,South B,Bungalow,5,2,2,196,2010,14756647,7/1/2025,No,Sold
+P035,South B,Duplex,3,3,3,114,2010,36981674,7/7/2025,No,Pending
+P036,Roysambu,Bungalow,4,1,0,166,2015,23284498,7/7/2025,Yes,Pending
+P037,Parklands,Maisonette,5,1,0,131,2017,43723195,7/8/2025,Yes,Pending
+P038,Kahawa West,Maisonette,5,1,0,115,2011,40460825,7/4/2025,Yes,Available
+P039,Westlands,Maisonette,2,1,3,134,2020,19623719,7/4/2025,Yes,Pending
+P040,Embakasi,Bungalow,4,2,1,144,2019,30622610,7/5/2025,No,Pending
+P041,Kahawa West,Bungalow,4,3,0,123,2021,9133580,7/3/2025,Yes,Sold
+P042,Westlands,Apartment,1,1,3,166,2016,43577144,7/6/2025,Yes,Sold
+P043,Lang'ata,Apartment,5,3,3,237,2020,42424032,7/2/2025,Yes,Pending
+P044,Runda,Apartment,4,2,2,105,2011,15276228,7/8/2025,Yes,Sold
+P045,Kahawa West,Duplex,4,1,2,77,2013,6749327,7/2/2025,No,Pending
+P046,Embakasi,Duplex,3,2,3,203,2012,35241224,7/7/2025,No,Sold
+P047,Runda,Maisonette,3,1,3,159,2006,16088402,7/7/2025,No,Pending
+P048,Kilimani,Maisonette,2,1,3,112,2015,4504576,7/2/2025,No,Available
+P049,South B,Bungalow,4,1,0,249,2016,34771388,7/8/2025,No,Sold
+P050,Westlands,Maisonette,5,4,0,173,2010,30437768,7/8/2025,No,Sold
